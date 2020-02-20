@@ -72,8 +72,10 @@ root.right.right.left = treeTraversal.insertNode("Tony");
 root.right.right.right = treeTraversal.insertNode("Wendy");
 
 treeTraversal.inorder(root);
+
 treeTraversal.preorder(root);
-treeTraversal.postorder(root);       
+
+treeTraversal.postorder(root);
 
 
 
